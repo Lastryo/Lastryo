@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">💻 Lastryo - experienced developer </h1>
 
-<!--
-**Lastryo/Lastryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3 align="center">Languages</h1>
+  <div>
+    <img src="https://img.shields.io/badge/C%23-1f232f?style=for-the-badge&logo=sharp&logoColor=99CC00">
+    <img src="https://img.shields.io/badge/Rust-1f232f?style=for-the-badge&logo=rust&logoColor=CE412B">
+  </div>
+  <h3 align="center">Engines</h1>
+  <div>
+    <img src="https://img.shields.io/badge/Unity-1f232f?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/bevy-1f232f.svg?style=for-the-badge&logo=bevy&logoColor=white">
+    <img src="https://img.shields.io/badge/GODOT-1f232f.svg?style=for-the-badge&logo=godot-engine">
+  </div>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lastryo&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
