@@ -1,4 +1,4 @@
-<h1 align="center">💻 Lastryo - experienced developer </h1>
+n<h1 align="center">💻 Lastryo - experienced developer </h1>
 
 <div align="center">
   <h3 align="center">Languages</h1>
@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lastryo&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lastryo&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&locale=en">
 </p>
